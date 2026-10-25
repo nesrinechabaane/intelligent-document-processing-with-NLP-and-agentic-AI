@@ -1,0 +1,49 @@
+{
+  "doc_type": "inspection_report",
+  "document_id": "INS-2026-0207",
+  "document_date": "2026-10-12",
+  "equipment": "Compresseur à vis CV-12",
+  "standards": [
+    "ISO 1217",
+    "EN 60204-1"
+  ],
+  "measurements": [
+    {
+      "parameter": "pressure",
+      "kind": "measured",
+      "value": 11.5,
+      "unit": "bar"
+    },
+    {
+      "parameter": "pressure",
+      "kind": "max",
+      "value": 13.0,
+      "unit": "bar"
+    },
+    {
+      "parameter": "temperature",
+      "kind": "measured",
+      "value": 88.0,
+      "unit": "°C"
+    },
+    {
+      "parameter": "temperature",
+      "kind": "max",
+      "value": 85.0,
+      "unit": "°C"
+    },
+    {
+      "parameter": "vibration",
+      "kind": "measured",
+      "value": 4.2,
+      "unit": "mm/s"
+    }
+  ],
+  "worst_severity": "critical",
+  "actions": [
+    "create_ticket",
+    "send_alert",
+    "request_human_review",
+    "archive_document"
+  ]
+}

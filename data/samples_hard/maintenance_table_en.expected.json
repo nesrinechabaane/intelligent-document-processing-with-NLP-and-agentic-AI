@@ -1,0 +1,40 @@
+{
+  "doc_type": "maintenance_report",
+  "document_id": "WO-8841",
+  "document_date": "2026-10-03",
+  "equipment": "Hydraulic press HP-9",
+  "standards": [],
+  "measurements": [
+    {
+      "parameter": "pressure",
+      "kind": "measured",
+      "value": 210.0,
+      "unit": "bar"
+    },
+    {
+      "parameter": "pressure",
+      "kind": "max",
+      "value": 200.0,
+      "unit": "bar"
+    },
+    {
+      "parameter": "temperature",
+      "kind": "measured",
+      "value": 64.0,
+      "unit": "°C"
+    },
+    {
+      "parameter": "temperature",
+      "kind": "max",
+      "value": 90.0,
+      "unit": "°C"
+    }
+  ],
+  "worst_severity": "critical",
+  "actions": [
+    "create_ticket",
+    "send_alert",
+    "request_human_review",
+    "archive_document"
+  ]
+}

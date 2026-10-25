@@ -1,0 +1,9 @@
+Maintenance report
+Equipment: Conveyor belt CB-7
+Technician: S. Rossi
+
+Measurements
+- Motor current: 14.2 A
+- Motor temperature: 71 °C
+
+Observations: Abnormal noise from the drive roller.

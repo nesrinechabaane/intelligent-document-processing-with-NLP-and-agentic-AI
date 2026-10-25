@@ -1,0 +1,11 @@
+SAFETY INSPECTION REPORT
+Reference: SI-2026-0412
+Date: 24/09/2026
+Asset: Steam boiler B-3
+Inspector: L. Dupont
+Compliance: EN 12952-1
+
+Operating pressure (max.): 10 bar
+Pressure reading: 145 psi
+During the round at 14:30 the technician noted a surface temperature of 135 °C near the burner.
+Observations: Corrosion visible on the lower seam. Safety valve OK.

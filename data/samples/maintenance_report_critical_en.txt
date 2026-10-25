@@ -1,0 +1,14 @@
+MAINTENANCE REPORT
+Document ID: MR-2026-0142
+Date: 2026-09-18
+Equipment: Centrifugal pump CP-200
+Technician: J. Moreau
+Standards: ISO 13849-1
+
+Measurements
+- Measured pressure: 18.2 bar
+- Maximum pressure: 16 bar
+- Measured temperature: 96 °C
+- Vibration: 7.1 mm/s
+
+Observations: Leak detected at the discharge flange. Seal replaced; no corrosion found on the casing.

@@ -1,0 +1,26 @@
+{
+  "doc_type": "maintenance_report",
+  "document_id": null,
+  "document_date": null,
+  "equipment": "Conveyor belt CB-7",
+  "standards": [],
+  "measurements": [
+    {
+      "parameter": "current",
+      "kind": "measured",
+      "value": 14.2,
+      "unit": "A"
+    },
+    {
+      "parameter": "temperature",
+      "kind": "measured",
+      "value": 71.0,
+      "unit": "°C"
+    }
+  ],
+  "worst_severity": "warning",
+  "actions": [
+    "request_human_review",
+    "archive_document"
+  ]
+}

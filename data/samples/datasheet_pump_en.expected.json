@@ -1,0 +1,52 @@
+{
+  "doc_type": "datasheet",
+  "document_id": "DS-2026-0101",
+  "document_date": "2026-02-10",
+  "equipment": "Centrifugal pump CP-200",
+  "standards": [
+    "ISO 9906",
+    "IEC 60034-1"
+  ],
+  "measurements": [
+    {
+      "parameter": "pressure",
+      "kind": "max",
+      "value": 16.0,
+      "unit": "bar"
+    },
+    {
+      "parameter": "power",
+      "kind": "nominal",
+      "value": 7.5,
+      "unit": "kW"
+    },
+    {
+      "parameter": "temperature",
+      "kind": "max",
+      "value": 120.0,
+      "unit": "°C"
+    },
+    {
+      "parameter": "voltage",
+      "kind": "nominal",
+      "value": 400.0,
+      "unit": "V"
+    },
+    {
+      "parameter": "speed",
+      "kind": "nominal",
+      "value": 2900.0,
+      "unit": "rpm"
+    },
+    {
+      "parameter": "flow",
+      "kind": "measured",
+      "value": 45.0,
+      "unit": "m3/h"
+    }
+  ],
+  "worst_severity": "info",
+  "actions": [
+    "archive_document"
+  ]
+}

@@ -1,0 +1,16 @@
+RAPPORT D'INSPECTION
+Référence: INS-2026-0207
+Date: 12 octobre 2026
+Équipement: Compresseur à vis CV-12
+Fabricant: AirTech SA
+Normes: ISO 1217, EN 60204-1
+Inspecteur: A. Ben Salah
+
+Mesures
+- Pression mesurée : 11,5 bar
+- Pression maximale : 13 bar
+- Température mesurée : 88 °C
+- Température maximale : 85 °C
+- Vibration : 4,2 mm/s
+
+Constats: Fuite d'huile constatée au niveau du joint d'arbre. Aucune fissure détectée.

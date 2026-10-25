@@ -1,0 +1,10 @@
+TRANSFORMER DATASHEET
+Document ID: DS-2026-0388
+Date: 2031-04-01
+Equipment: Distribution transformer TR-630
+Manufacturer: VoltEdge GmbH
+
+Specifications
+- Rated voltage: 20 kV
+- Rated power: 500 kW
+- Maximum temperature: 12000 °C

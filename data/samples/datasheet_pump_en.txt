@@ -1,0 +1,14 @@
+PUMP DATASHEET
+Document ID: DS-2026-0101
+Date: 2026-02-10
+Equipment: Centrifugal pump CP-200
+Manufacturer: Hydroflow Industries
+Standards: ISO 9906, IEC 60034-1
+
+Specifications
+- Maximum operating pressure: 16 bar
+- Rated power: 7.5 kW
+- Maximum temperature: 120 °C
+- Rated voltage: 400 V
+- Rated speed: 2900 rpm
+- Flow: 45 m3/h

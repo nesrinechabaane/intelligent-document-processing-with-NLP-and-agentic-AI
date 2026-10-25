@@ -1,0 +1,42 @@
+{
+  "doc_type": "maintenance_report",
+  "document_id": "MR-2026-0142",
+  "document_date": "2026-09-18",
+  "equipment": "Centrifugal pump CP-200",
+  "standards": [
+    "ISO 13849-1"
+  ],
+  "measurements": [
+    {
+      "parameter": "pressure",
+      "kind": "measured",
+      "value": 18.2,
+      "unit": "bar"
+    },
+    {
+      "parameter": "pressure",
+      "kind": "max",
+      "value": 16.0,
+      "unit": "bar"
+    },
+    {
+      "parameter": "temperature",
+      "kind": "measured",
+      "value": 96.0,
+      "unit": "°C"
+    },
+    {
+      "parameter": "vibration",
+      "kind": "measured",
+      "value": 7.1,
+      "unit": "mm/s"
+    }
+  ],
+  "worst_severity": "critical",
+  "actions": [
+    "create_ticket",
+    "send_alert",
+    "request_human_review",
+    "archive_document"
+  ]
+}

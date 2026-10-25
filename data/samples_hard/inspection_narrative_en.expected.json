@@ -1,0 +1,34 @@
+{
+  "doc_type": "inspection_report",
+  "document_id": "SI-2026-0412",
+  "document_date": "2026-09-24",
+  "equipment": "Steam boiler B-3",
+  "standards": [
+    "EN 12952-1"
+  ],
+  "measurements": [
+    {
+      "parameter": "pressure",
+      "kind": "max",
+      "value": 10.0,
+      "unit": "bar"
+    },
+    {
+      "parameter": "pressure",
+      "kind": "measured",
+      "value": 145.0,
+      "unit": "psi"
+    },
+    {
+      "parameter": "temperature",
+      "kind": "measured",
+      "value": 135.0,
+      "unit": "°C"
+    }
+  ],
+  "worst_severity": "warning",
+  "actions": [
+    "request_human_review",
+    "archive_document"
+  ]
+}

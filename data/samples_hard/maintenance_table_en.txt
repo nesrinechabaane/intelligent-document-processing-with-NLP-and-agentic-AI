@@ -1,0 +1,10 @@
+MAINTENANCE REPORT
+Document ID: WO-8841
+Date: 2026-10-03
+Equipment: Hydraulic press HP-9
+
+Parameter      Value     Limit
+Pressure       210 bar   200 bar
+Temperature    64 °C     90 °C
+
+Observations: Slight oil film under the cylinder.
